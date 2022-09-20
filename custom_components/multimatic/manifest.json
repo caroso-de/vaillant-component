@@ -4,9 +4,7 @@
   "config_flow": true,
   "documentation": "https://github.com/thomasgermain/vaillant-component",
   "issue_tracker": "https://github.com/thomasgermain/vaillant-component/issues",
-  "requirements": [
-    "git+https://github.com/caroso-de/pymultiMATIC.git"
-  ],
+  "requirements": ["git+https://github.com/caroso-de/pymultiMATIC.git@master"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
