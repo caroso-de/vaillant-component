@@ -1,5 +1,5 @@
 {
-  "domain": "multimatic_caroso",
+  "domain": "multimatic",
   "name": "Multimatic_caroso",
   "config_flow": true,
   "documentation": "https://github.com/thomasgermain/vaillant-component",
